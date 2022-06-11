@@ -1,6 +1,6 @@
 ## About me
 
-Hi everyone!, My name is Panupong Nakmanee, Can call me Peam. I am studying at School of Information Technology, King Mongkut's University of Technology Thonburi. I am interested in UX/UI Designer, Front-end, or anything that makes life less stressful hahaa. Maybe I'd rather sleep forever. 😴
+Hi everyone!, My name is Panupong Nakmanee, Can call me Peam. I am studying at School of Information Technology, King Mongkut's University of Technology Thonburi. I am interested in IT support or anything that makes life less stressful hahaa. Maybe I'd rather sleep forever. 😴
 
 ![me](https://github.com/messipeam/messipeam/blob/main/pic/6av1.gif)
 
