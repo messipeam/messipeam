@@ -1,8 +1,8 @@
 ## About me
 
-Hi everyone!, My name is Panupong Nakmanee, Can call me Peam. I am studying at School of Information Technology, King Mongkut's University of Technology Thonburi. I am interested in anything that makes life less stressful hahaa. Maybe I'd rather sleep forever. 😴
+Hello everyone! My name is Panupong Nakmanee, but you can call me Peam. I am studying at the School of Information Technology at King Mongkut's University of Technology Thonburi. I'm interested in anything that makes life less stressful, haha. Maybe I'd rather just sleep forever. 😴
 
-![me](https://github.com/messipeam/messipeam/blob/main/pic/6av1.gif)
+![me](https://github.com/messipeam/messipeam/blob/main/pic/tumblr_nnmtwtneKt1r7bseko2_400.gif)
 
 <!--
 **messipeam/messipeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
